@@ -1,0 +1,4 @@
+Game/
+*.log
+*.tmp
+.DS_Store
